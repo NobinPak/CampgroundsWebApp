@@ -1,0 +1,16 @@
+pw: fu4vYhEqqd2A4QEz
+user:Nobin
+
+ON Terminal
+mysql -h cs370.c6xtzscb5dmi.us-east-2.rds.amazonaws.com -P 3306 -u Nobin -p 
+
+commands in Terminal
+-SHOW DATABASES;
+-USE cs370;
+- SELECT * FROM words;
+- DELETE FROM campGround;
+show tables;
+describe users;
+
+
+  
